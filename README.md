@@ -3,14 +3,14 @@
 <img width="1386" height="608" alt="Sales Intelligence Dashboard" src="https://github.com/user-attachments/assets/7ac370fb-9e7b-4dfa-a57e-eda7f8d46962" />
 
 
-📊 Interactive Sales Dashboard
+📊 **Interactive Sales Dashboard**
 📌 Project Overview
 
 This project presents an interactive data dashboard designed to transform raw sales data into clear, actionable insights. The dashboard focuses on tracking performance across different dimensions such as time, region, category, and product, helping stakeholders make data-driven decisions quickly and efficiently.
 
 The project demonstrates strong skills in data cleaning, transformation, modeling, and visualization, with an emphasis on automation and clarity.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Provide a clear overview of overall sales performance
 

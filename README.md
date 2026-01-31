@@ -1,3 +1,8 @@
+
+
+<img width="1386" height="608" alt="Sales Intelligence Dashboard" src="https://github.com/user-attachments/assets/7ac370fb-9e7b-4dfa-a57e-eda7f8d46962" />
+
+
 📊 Interactive Sales Dashboard
 📌 Project Overview
 

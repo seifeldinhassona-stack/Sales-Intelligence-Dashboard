@@ -3,14 +3,14 @@
 <img width="1386" height="608" alt="Sales Intelligence Dashboard" src="https://github.com/user-attachments/assets/7ac370fb-9e7b-4dfa-a57e-eda7f8d46962" />
 
 
-📊 **Interactive Sales Dashboard**
-📌 Project Overview
+Interactive Sales Dashboard**
+ Project Overview
 
 This project presents an interactive data dashboard designed to transform raw sales data into clear, actionable insights. The dashboard focuses on tracking performance across different dimensions such as time, region, category, and product, helping stakeholders make data-driven decisions quickly and efficiently.
 
 The project demonstrates strong skills in data cleaning, transformation, modeling, and visualization, with an emphasis on automation and clarity.
 
-🎯 **Objectives**
+Objectives**
 
 Provide a clear overview of overall sales performance
 
@@ -20,7 +20,7 @@ Compare performance by category, sub-category, and product
 
 Support business decision-making through visual insights
 
-🛠 Tools & Technologies
+ Tools & Technologies
 
 Power BI / Excel Dashboard (choose the one you used)
 
@@ -30,7 +30,7 @@ CSV datasets as data sources
 
 Calculated measures & KPIs for performance analysis
 
-🔄 Data Preparation Process
+Data Preparation Process
 
 The data preparation pipeline was fully automated to ensure scalability and consistency:
 
@@ -50,7 +50,7 @@ Profit
 
 Profit Margin (%)
 
-📈 Dashboard Features
+Dashboard Features
 
 Total Sales Overview (KPIs)
 
@@ -64,7 +64,7 @@ Product-level contribution to total sales
 
 Dynamic filters for easy exploration
 
-🔍 Key Insights
+Key Insights
 
 Identifies top-performing regions and products
 
@@ -74,7 +74,7 @@ Shows profit margin variations across categories
 
 Helps detect underperforming segments
 
-🚀 Use Case
+ Use Case
 
 This dashboard is suitable for:
 
@@ -86,20 +86,20 @@ Decision-makers
 
 Portfolio demonstration for Data Analyst roles
 
-📂 Repository Structure
-📁 data        → Raw CSV files
-📁 dashboard   → Dashboard file
-📁 images      → Dashboard screenshots
+ Repository Structure
+ data        → Raw CSV files
+ dashboard   → Dashboard file
+ images      → Dashboard screenshots
 README.md     → Project documentation
-📸 Dashboard Preview
+ Dashboard Preview
 
 (Add screenshots of your dashboard here)
 
-👤 Author
+ Author
 
 Seif El-Din Hassona
 Data Analyst | Quality Assurance Specialist
 
-⭐ Notes
+ Notes
 
 If you find this project useful, feel free to star ⭐ the repository or provide feedback.

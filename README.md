@@ -99,4 +99,4 @@ Data Analyst | Quality Assurance Specialist
 
  Notes
 
-If you find this project useful, feel free to star ⭐ the repository or provide feedback.
+If you find this project useful, feel free to star the repository or provide feedback.
